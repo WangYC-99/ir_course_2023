@@ -1,2 +1,3 @@
 dataset/*.txt
 thu_news/*.txt
+cleared_dataset/*
